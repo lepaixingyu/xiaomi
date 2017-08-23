@@ -1,0 +1,13 @@
+*{
+	margin: 0;    /* body */
+}
+*{
+	margin: 0;   /* body=80x */
+	padding: 0;   /* 列表标签 */
+	list-style:none;/* 列表标签  */
+	text-decoration: none;/* a（超链接）标签下的下划线 */
+}
+img{
+	width: 100%;
+	height: 100%;/* (图片适应大小调整) */
+}
